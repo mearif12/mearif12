@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/J7zTn0y/profile.jpg)
+![Banner](https://assets.codepen.io/13833820/internal/avatars/users/default.png?format=auto&version=1737807499&width=300&height=300)
 
 <h1 align="center">Hi 👋, I'm ME Arifur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mearif12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mearif12" height="30" width="40" /></a>
-<a href="https://twitter.com/mearif12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mearif12" height="30" width="40" /></a>
+<a href="https://codepen.io/mearif12" target="blank"><img align="center" src="https://assets.codepen.io/13833820/internal/avatars/users/default.png?format=auto&version=1737807499&width=300&height=300" alt="mearif12" height="30" width="40" /></a>
+<a href="https://x.com/mearif12" target="blank"><img align="center" src="https://x.com/mearif_12/photo" alt="mearif12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
