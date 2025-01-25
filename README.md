@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co.com/xjMbhPf)](https://ibb.co.com)
+[![MasterHead](https://ibb.co.com/xjMbhPf)]
 
 <h1 align="center">Hi 👋, I'm ME Arifur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
