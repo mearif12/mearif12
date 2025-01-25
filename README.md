@@ -3,10 +3,9 @@
 <h1 align="center">Hi 👋, I'm ME Arifur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Prgrammer" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mearif12&label=Profile%20views&color=0e75b6&style=flat" alt="mearif12" /> </p>
 
-<p align="left"> <img src="https://assets.codepen.io/13833820/internal/avatars/users/default.png?format=auto&version=1737807499&width=300&height=300" alt="mearif12" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mearif12" target="blank"><img src="https://pbs.twimg.com/profile_images/1750853904542126080/yQftfgzt_400x400.jpg" alt="mearif12" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mearif12" target="blank"><img src="https://img.shields.io/twitter/follow/mearif12?logo=twitter&style=for-the-badge" alt="mearif12" /></a> </p>
 
 - 🌱 I’m currently learning **Framework7**
 
@@ -18,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mearif12" target="blank"><img align="center" src="https://assets.codepen.io/13833820/internal/avatars/users/default.png?format=auto&version=1737807499&width=300&height=300" alt="mearif12" height="30" width="40" /></a>
-<a href="https://x.com/mearif12" target="blank"><img align="center" src="https://x.com/mearif_12/photo" alt="mearif12" height="30" width="40" /></a>
+<a href="https://codepen.io/mearif12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mearif12" height="30" width="40" /></a>
+<a href="https://twitter.com/mearif12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mearif12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
