@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 💬 Ask me about **MEVN**
+- 💬 Ask me about **MEVN Stack**
 
 - 📫 How to reach me **mearifurahman@outlook.com**
 
