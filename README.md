@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mearif12" target="blank"><img src="https://img.shields.io/twitter/follow/mearif12?logo=twitter&style=for-the-badge" alt="mearif12" /></a> </p>
 
-- 🌱 I’m currently learning **Framework7**
+- 🌱 I’m currently learning **Vue JS**
 
 - 💬 Ask me about **MEVN**
 
