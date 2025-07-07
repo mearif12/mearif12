@@ -1,4 +1,4 @@
-![Banner](https://wallpaperaccess.com/full/1555172.jpg)
+![Banner](https://s3-eu-west-1.amazonaws.com/blog.forestadmin.com/2021/09/FA-article-nodeJS@2x-1-.png)
 
 <h1 align="center">Hi 👋, I'm ME Arifur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
